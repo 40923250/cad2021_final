@@ -1,0 +1,34 @@
+<h3>40923250</h3>
+<p>全部東西的壓縮檔:<a href="https://drive.google.com/file/d/1h-twm-IvOACYtN7vfuu1j5y8T_-khea-/view?usp=sharing">https://drive.google.com/file/d/1h-twm-IvOACYtN7vfuu1j5y8T_-khea-/view?usp=sharing</a></p>
+<p><strong></strong></p>
+<p><strong>第一題</strong></p>
+<p>繪圖過程:<a href="https://youtu.be/Z1zCgRH6N5M">https://youtu.be/Z1zCgRH6N5M</a><br><br></p>
+<p><iframe width="1090" height="613" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Z1zCgRH6N5M" title="YouTube video player"></iframe></p>
+<p></p>
+<p>組裝過程:<a href="https://youtu.be/tmUYRbFtwLw">https://youtu.be/tmUYRbFtwLw</a></p>
+<p></p>
+<p><iframe width="1090" height="613" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/tmUYRbFtwLw" title="YouTube video player"></iframe></p>
+<p></p>
+<p>coppeliasim組裝:<a href="https://youtu.be/N7iq3f27YzM">https://youtu.be/N7iq3f27YzM</a></p>
+<p></p>
+<p></p>
+<p><iframe width="1090" height="613" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/N7iq3f27YzM" title="YouTube video player"></iframe></p>
+<p><strong></strong></p>
+<p>Slider運動:<a href="https://www.youtube.com/watch?v=mHzkr2XPWSE">https://www.youtube.com/watch?v=mHzkr2XPWSE</a></p>
+<p></p>
+<p><iframe width="1090" height="613" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/mHzkr2XPWSE" title="YouTube video player"></iframe></p>
+<p></p>
+<p><strong>第二題</strong></p>
+<p>組裝過程:<a href="https://youtu.be/5VeXINhea_E">https://youtu.be/5VeXINhea_E</a></p>
+<p></p>
+<p><iframe width="1090" height="613" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/5VeXINhea_E" title="YouTube video player"></iframe></p>
+<p></p>
+<p>coppeliasim組裝part01:<a href="https://youtu.be/SwJYXzPh-iA">https://youtu.be/SwJYXzPh-iA</a></p>
+<p><span>coppeliasim組裝part01:</span><a href="https://youtu.be/-hTlOyUbAHA">https://youtu.be/-hTlOyUbAHA</a></p>
+<p></p>
+<p><iframe width="1090" height="613" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/SwJYXzPh-iA" title="YouTube video player"></iframe> <iframe width="1090" height="613" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/-hTlOyUbAHA" title="YouTube video player"></iframe></p>
+<p></p>
+<p>Slider運動:<a href="https://www.youtube.com/watch?v=wg4zPanCvPU">https://www.youtube.com/watch?v=wg4zPanCvPU</a></p>
+<p></p>
+<p><iframe width="1090" height="613" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/wg4zPanCvPU" title="YouTube video player"></iframe></p>
+<p></p>
